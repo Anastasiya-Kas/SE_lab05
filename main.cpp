@@ -1,3 +1,4 @@
+/*This is a training file */
 #include <iostream>
 
 using namespace std;
